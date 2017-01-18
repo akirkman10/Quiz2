@@ -406,6 +406,7 @@
 				2CF70B4B1E26ACCB00FED5E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2CF70B4C1E26ACCB00FED5E2 /* Build configuration list for PBXNativeTarget "QuizTests" */ = {
 			isa = XCConfigurationList;
@@ -414,6 +415,7 @@
 				2CF70B4E1E26ACCB00FED5E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
